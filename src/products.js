@@ -11,7 +11,7 @@ export const productsData = [
     name: "Playstation 5",
     description: "Standard Edition",
     price: 399,
-    image: "./assets/image/ps5-standard-750x750.jpg",
+    image: "/assets/image/ps5-standard-750x750.jpg",
   },
   {
     id: 3,
